@@ -2,3 +2,5 @@
 mkdir
 nano
 sudo
+checkout
+commit
