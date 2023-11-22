@@ -1,6 +1,10 @@
 # cache_exo
+<<<<<<< HEAD
 mkdir
 nano
 sudo
 checkout
 commit
+=======
+mkdir nano sudo HOLO HEY HOHOHOHO
+>>>>>>> Ouss
