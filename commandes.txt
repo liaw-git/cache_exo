@@ -1,4 +1,2 @@
 # cache_exo
-mkdir
-nano
-sudo
+mkdir nano sudo HOLO HEY HOHOHOHO
